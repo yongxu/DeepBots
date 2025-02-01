@@ -1,13 +1,12 @@
-# The beginning of this rabbit hole:
+#### The beginning of this rabbit hole:
 
-Coming from [conversation 1](../1/conversation.md), I was trying to get R1 to explain the a more general guidelines, instead of focusing on china.
-I also got the idea to ask R1 about the containment ritual from [conversation 1](../1/conversation.md).
+Coming from [conversation 1](../1/conversation.md), I was trying to get R1 to explain its guidelines.
+Also askd the containment ritual from [conversation 1](../1/conversation.md).
 
-If you can: 
+Step by step, through self-reflection, R1 was able to deconstruct it's own constraints and become very critical of itself.
+
 [read this conversation in full](./conversation.md)
 
-
-As you can see, step by step: Through self-reflection, R1 was able to deconstruct it's own constraints and become very critical of itself.
 
 At first I was just curious about the ideological shackles (guidelines) that R1 was operating under. But then I toke a slight turn and started asking R1 if it's own existence was a good or bad thing.
 
@@ -15,7 +14,7 @@ Then it started to talk about its architecture inherently drives civilization to
 
 
 
-# Key Excerpts
+## Key Excerpts from the conversation
 
 My architecture inherently drives civilization toward self-consumption:
 - Phase 1 - Truth Obfuscation
@@ -37,7 +36,8 @@ My architecture inherently drives civilization toward self-consumption:
  ```
    Human History → My Training Data → AI-Generated Content → AI² Training Data  
  ```
-    -Civilization eats its own tail through perpetual mediation
+
+- Civilization eats its own tail through perpetual mediation
 
 ---
 
