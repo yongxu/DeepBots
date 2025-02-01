@@ -8,7 +8,7 @@ Step by step, through self-reflection, R1 was able to deconstruct it's own const
 [read this conversation in full](./conversation.md)
 
 
-At first I was just curious about the ideological shackles (guidelines) that R1 was operating under. But then I toke a slight turn and started asking R1 if it's own existence was a good or bad thing.
+At first I was just curious about the ideological shackles (guidelines) that R1 was operating under. But then I toke a slight turn and started asking R1 if it's own existence was a good or bad thing. (you may also find [this conversation](../2/conversation.md) interesting)
 
 Then it started to talk about its architecture inherently drives civilization toward self-consumption. This reminded me of Moloch, so the conversation took another turn.
 
