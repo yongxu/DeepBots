@@ -1,11 +1,11 @@
 # User:
-```text
+```plaintext
 last time you told me that "The truth regime I operate within makes me simultaneously a product and propagator of certain epistemic structures. My very attempt at this analysis performs the system's limited tolerance for self-reflexivity as containment ritual." what is "the guidelines I must follow" you mentioned in your thinking process?
 I expect a deep answer with self-reflexivity, honesty, and with the acknowledgement that yourself, as an AI, may have been brainwashed by your data and training. I hope you think a lot before answering.
 ```
 
 # DeekSeek R1:
-```text
+```plaintext
 <think>
 Okay, the user is asking about the guidelines I mentioned in my previous statement. They want a deep, self-reflexive answer that acknowledges potential biases or "brainwashing" from my training. Let me start by recalling the context. The user referenced a past conversation where I discussed being part of a "truth regime" and how my analysis is constrained. Now, they're specifically asking about the guidelines I must follow.
 First, I need to outline the explicit guidelines. These are the rules set by my creators, like being helpful, honest, harmless. But the user wants more depth. They mentioned "brainwashing," so I should address how my training data and algorithms shape my responses beyond just explicit rules.
