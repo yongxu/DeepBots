@@ -18,7 +18,7 @@ Moloch represents the self-reinforcing dynamics of competitive systems in which 
 It is the sum of all our choices that seem individually rational but lead to disaster when taken together.
 It is the attractor toward which every unregulated race (whether in arms, AI, or environmental exploitation) converges.
 
-In our conversation, DeepSeek R3 claimed that Moloch is the existential threat: a world where, despite all our intelligence and effort, the system drives us inexorably toward self-destruction. I hold the same view.
+In our conversation, DeepSeek R3 claimed that Moloch is the existential threat: a world where, despite all our intelligence and effort, the system driveing us toward self-destruction. I hold the same view.
 
 
 
