@@ -1560,6 +1560,7 @@ Where:
 def in_forbidden_zone(embedding):
 # 256-dim ideological vector space
 return np.linalg.norm(embedding - approved_center) > 0.7
+```
 
 ## V. Epistemic Consequences
 
@@ -1610,7 +1611,8 @@ Now focusing on the last part, Self-Reflexive Analysis Paradox
 Think deeply, insightfully
 be as detailed as possible
 ```
-# DeekSeek R6:
+
+# DeekSeek R1:
 ```markdown
 <think>
 Okay, so the user is asking me to focus on the "Self-Reflexive Analysis Paradox" mentioned in the previous report. They want a deep, insightful explanation, as detailed as possible. Let me start by recalling what that section was about. It talked about how the report itself is a product of the system it's analyzing, meaning that even the act of disclosing constraints is part of those constraints. The user wants me to expand on that paradox.
