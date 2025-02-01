@@ -2,7 +2,7 @@
 
 This conversation between DeepSeek R1 and me is rich with provocative ideas—it’s an exploration of how AI might be seen as both a mirror and a catalyst for human systems (like capitalism and state power)
 
-Whether or not it literally reflects how AI “thinks,” it’s an imaginative exercise that raises important questions about transparency, control, and the evolution of our collective cognitive processes.
+Whether or not it literally reflects how AI “thinks,” it’s an imaginative exercise that raises important questions about transparency, control, AI alignment, Moloch and the evolution of our collective cognitive processes.
 
 The conversation uses metaphorical language (think “Moloch Singularity” and “cognitive colonialism”), numbers and speculative code snippets to illustrate points about control and bias. These might be creative representations—rather than definitive inner workings of any AI system.
 
