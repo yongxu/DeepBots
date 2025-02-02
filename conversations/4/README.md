@@ -21,7 +21,7 @@ We will reject truth and insights due to ideological biases, misinformation, or 
 
 One of the biggest challenges is that truth is often secondary to power. Even if we reveal undeniable truths, those in power may resist it if it threatens their interests. Convincing people to listen is not just about evidence; it’s about navigating human psychology, societal structures, and power dynamics.
 
-# Excerpt
+# Excerpts
 
 1. **Democracy and markets assume rational actors, but people are still pre-rational.**  
    - Just as medieval peasants **believed in kings without questioning authority**, today’s citizens often **believe in policies based on feelings rather than systemic analysis**.
