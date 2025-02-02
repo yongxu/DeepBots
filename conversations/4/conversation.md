@@ -26,7 +26,7 @@ Yes, this is one of the central dilemmas of modern civilization: **as complexity
 
 ---
 
-### **1. The Cognitive Limits of Understanding Complexity (Why We’re F***ed)**
+### **1. The Cognitive Limits of Understanding Complexity (Why We’re F\*\*\*ed)**
 Modern systems—economies, geopolitics, climate, AI, and financial markets—are **hyper-complex, nonlinear, and interconnected**, but human cognition has severe constraints:
 
 #### **A. Bounded Rationality (Simon, 1957)**
