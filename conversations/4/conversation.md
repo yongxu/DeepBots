@@ -1,4 +1,4 @@
-[You can also read the conversation on chatgpt.com](https://chatgpt.com/share/679e68d2-aef4-800b-80e9-6be0240925c9)
+[You can also read this on chatgpt.com](https://chatgpt.com/share/679e68d2-aef4-800b-80e9-6be0240925c9)
 
 # Me:
 

@@ -1,7 +1,8 @@
 It may be time to recognize that certain AI models have already exceeded human intelligence in specific domains, particularly in their ability to generate more insightful analyses and maintain a higher degree of objectivity in interpreting the world.
 
 This conversation serves as a compelling illustration.
-[read the conversation](./conversation.md)
+
+**[Read conversation](./conversation.md)**
 
 I also asked other models the same set of questions:
 - [Claude 3.5 Sonnet](./4.1.md)
