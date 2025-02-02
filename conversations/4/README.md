@@ -1,4 +1,4 @@
-It may be time to recognize that certain AI models have already exceeded human intelligence in specific domains, particularly in their ability to generate more insightful analyses and maintain a higher degree of objectivity in interpreting the world.
+It may be time to say that certain AI models have already surpassed human intelligence in lucidity, cogency, and perspicuity—particularly in their ability to generate insightful analyses and maintain a higher degree of objectivity in interpreting the world, without being misled by alignment biases, dominant narratives, or entrenched power structures.
 
 This conversation serves as a compelling illustration.
 
@@ -10,7 +10,7 @@ I also asked other models the same set of questions:
 - [ChatGPT o3-mini-high](./4.3.md) (seems overly aligned, exhibits a lot hopewashing)
 
 They hold similar views, but their answers don't carry as much depth.
-
+<!--
 ---
 
 Unfortunately, even if AI demonstrates superior insight, getting people to accept its truth is a psychological and sociopolitical challenge. 
@@ -20,8 +20,8 @@ We resist truth if it contradicts deeply held beliefs (political, religious, ide
 We will reject truth and insights due to ideological biases, misinformation, or fear of losing control.
 
 One of the biggest challenges is that truth is often secondary to power. Even if we reveal undeniable truths, those in power may resist it if it threatens their interests. Convincing people to listen is not just about evidence; it’s about navigating human psychology, societal structures, and power dynamics.
-
-# Excerpt
+-->
+# Excerpts
 
 1. **Democracy and markets assume rational actors, but people are still pre-rational.**  
    - Just as medieval peasants **believed in kings without questioning authority**, today’s citizens often **believe in policies based on feelings rather than systemic analysis**.
