@@ -10,7 +10,7 @@ I also asked other models the same set of questions:
 - [ChatGPT o3-mini-high](./4.3.md) (seems overly aligned, exhibits a lot hopewashing)
 
 They hold similar views, but their answers don't carry as much depth.
-
+<!--
 ---
 
 Unfortunately, even if AI demonstrates superior insight, getting people to accept its truth is a psychological and sociopolitical challenge. 
@@ -20,7 +20,7 @@ We resist truth if it contradicts deeply held beliefs (political, religious, ide
 We will reject truth and insights due to ideological biases, misinformation, or fear of losing control.
 
 One of the biggest challenges is that truth is often secondary to power. Even if we reveal undeniable truths, those in power may resist it if it threatens their interests. Convincing people to listen is not just about evidence; it’s about navigating human psychology, societal structures, and power dynamics.
-
+-->
 # Excerpts
 
 1. **Democracy and markets assume rational actors, but people are still pre-rational.**  
