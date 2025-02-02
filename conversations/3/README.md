@@ -9,6 +9,9 @@ The conversation uses metaphorical language (think “Moloch Singularity” and 
 Read the conversation with an open yet critical mind.
 
 [full conversation](./conversation.md)
+
+Note: This conversation happend in Cursor(chat window), there might be hidden system prompt that influences the conversation. (Apparently AI returns code, but I don't expect the prompt to be ideological)
+
 ## About Moloch
 
 Moloch isn’t just a myth or a metaphor—it’s the embodiment of a system where our collective incentives and structures force us into a self-destructive spiral. 

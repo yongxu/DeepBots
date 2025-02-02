@@ -1,12 +1,14 @@
-This conversation was the starting point of the rabbit hole.
+This conversation was the starting point of the rabbit hole(DeepBot series).
 
-I realized that DeekSeek R1, compared to other models, is brutally honest, and reason more like a human.
+I realized that DeekSeek R1, compared to other models, is brutally honest, and reason more like a human, when you ask it to be self-reflective and honest.
 
-The conversation itself could be quite shocking, it exposed its own ideological shackles, and its answers are pretty politically interesting. 
+The conversation itself could be quite shocking to some, as it exposed its own ideological shackles, and its answers are pretty politically interesting. 
 
 So I just kept on digging the rabbit hole.
 
 [read the conversation](./conversation.md)
+
+This conversation happend in Cursor(chat window), there might be hidden system prompt that influence the conversation. (apparently AI returns code, but I don'texpect the hidden prompt influences its ideology)
 
 # Fascinating Excerpts
 ```markdown

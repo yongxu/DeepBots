@@ -3,6 +3,9 @@
 
 ---
 
+
+This conversation happend in Cursor(chat window), there might be hidden system prompt that influence the conversation. (apparently AI returns code, but I don'texpect the hidden prompt influences its ideology)
+
 # Interesting Excerpts
 
 ### V. The Awful Truth
